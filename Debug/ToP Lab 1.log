@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Doch3.cpp
+C:\Users\david\source\repos\ToP Lab 1\Doch3.cpp(30,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  ToP Lab 1.vcxproj -> C:\Users\david\source\repos\ToP Lab 1\Debug\ToP Lab 1.exe
